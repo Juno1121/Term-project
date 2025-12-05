@@ -1,0 +1,6 @@
+# Personal Recipe Manager - Dependencies
+# Core dependencies (none required for MVP)
+# Future API integration dependencies will be added here:
+# requests>=2.31.0  # For API calls
+# python-dotenv>=1.0.0  # For API key management
+
